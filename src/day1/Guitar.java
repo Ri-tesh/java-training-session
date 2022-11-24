@@ -13,4 +13,11 @@ public class Guitar {
 
 
     // Behaviours
+    // Condition
+    // Availability
+    // Sort by
+    // Add to cart
+    // Wishlist
+    // FAQ
+    // Review
 }
