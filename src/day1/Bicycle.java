@@ -9,7 +9,11 @@ public class Bicycle {
     // Drivetrain(Gears)
     // color
 
-
-
     // Behaviour
+    // Compare
+    // Quantity
+    // Gender
+    // Availability
+    // Sort by
+    // Condition
 }
