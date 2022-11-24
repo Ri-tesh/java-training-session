@@ -1,6 +1,6 @@
 package day1;
 
-public class TelevisionState {
+public class Television {
     // State
     // Brand Names
     // Size
@@ -9,5 +9,10 @@ public class TelevisionState {
     // Dimensions
     // Screen Resolutions
     // Sound System
-    //Behaviour
+
+    // Behaviour
+    // Quantity
+    // Buy Now
+    // Compare
+    // Purchase Plan
 }
