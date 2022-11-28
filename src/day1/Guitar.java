@@ -2,14 +2,14 @@ package day1;
 
 public class Guitar {
     // States
-    // Brand Name
-    // Body Type
-    // Wood Material
-    // Guitar Type
-    // Pickups
-    // Strings Brand
-    // Year Made
-    // Body Size
+    // Brand Name (String)
+    // Body Type (String)
+    // Body Material (String)
+    // Guitar Type (String)
+    // Pickups (String)
+    // Strings Brand (String)
+    // Year Made (String)
+    // Body Size (Float)
 
 
     // Behaviours
