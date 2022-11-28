@@ -2,13 +2,15 @@ package day1;
 
 public class Television {
     // State
-    // Brand Names
-    // Size
-    // Weight
-    // Color
-    // Dimensions
-    // Screen Resolutions
-    // Sound System
+    // Brand Names (String)
+    // Size (Float)
+    // Size Unit (String)
+    // Weight (Float)
+    // Weight Unit (String)
+    // Color (string)
+    // Dimensions (Float)
+    // Screen Resolutions (String)
+    // Sound System (String)
 
     // Behaviour
     // Quantity
