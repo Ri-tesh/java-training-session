@@ -2,12 +2,12 @@ package day1;
 
 public class Bicycle {
     // States
-    // Brand Name
-    // Frame Dimensions
-    // Tyre Dimensions
-    // Tyre Types
-    // Drivetrain(Gears)
-    // color
+    // Brand Name (String)
+    // Frame Dimensions (Float)
+    // Tyre Dimensions (Float)
+    // Tyre Types (String)
+    // Drivetrain(Gears) (String)
+    // Color (String)
 
     // Behaviour
     // Compare
